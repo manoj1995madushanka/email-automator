@@ -1,1 +1,1 @@
-# payslip-automator
+# email-automator
